@@ -11,7 +11,7 @@
   </p>
 </div>
 
-一名专注 **AI Agent 编排引擎** 与 **Agent 中台架构** 的全栈工程师，目前在一家上市公司的 AI 中台团队担任编排引擎 Owner，主导 Agent 中台从 0→1 的全链路研发。相信好的 Agent 系统 = 可控的执行流程 + 完善的可观测性 + 稳定的工程底座。
+A full-stack engineer focused on **AI Agent orchestration engines** and **Agent platform architecture**. Currently serving as the Orchestration Engine Owner on the AI platform team at a publicly listed company, driving the Agent platform build from 0 to 1. I believe a great Agent system = controllable execution flow + solid observability + a stable engineering foundation.
 
 ---
 
@@ -24,10 +24,10 @@
 #### 🌱 Internship Experience
 
 <p>
-<strong>北京值得买科技</strong> -- <code>AI 中台团队 · 编排引擎 Owner</code> -- <code>2025.07 to Now</code><br/>
-<strong>阿里巴巴集团</strong> -- <code>通义实验室 · AI Agent 开发（实习）</code> -- <code>2024.07 to 2024.12</code><br/>
-<strong>科大讯飞</strong> -- <code>AI 开放平台部 · AI 应用开发（实习）</code> -- <code>2024.01 to 2024.06</code><br/>
-<strong>网易 · 有道智云</strong> -- <code>AI 技术部 · 算法工程师（实习）</code> -- <code>2023.06 to 2023.11</code><br/>
+<strong>Beijing Zhidemai Technology</strong> -- <code>AI Platform Team · Orchestration Engine Owner</code> -- <code>2025.07 to Now</code><br/>
+<strong>Alibaba Group</strong> -- <code>Tongyi Lab · AI Agent Developer (Intern)</code> -- <code>2024.07 to 2024.12</code><br/>
+<strong>iFLYTEK</strong> -- <code>AI Open Platform · AI App Developer (Intern)</code> -- <code>2024.01 to 2024.06</code><br/>
+<strong>NetEase · Youdao Cloud</strong> -- <code>AI Tech Team · Algorithm Engineer (Intern)</code> -- <code>2023.06 to 2023.11</code><br/>
 </p>
 
 </td>
@@ -36,9 +36,9 @@
 #### 🚀 Featured Projects
 
 <p>
-<strong>运筹</strong> -- <code>Plan-and-Execute 编排引擎 + 模型路由层</code> -- <code>2026.02 to 2026.06</code><br/>
-<strong>天玑</strong> -- <code>NL2SQL 数据问答 Agent</code> -- <code>2025.09 to 2026.01</code><br/>
-<strong>万象</strong> -- <code>Supervisor-Worker 多模态 Multi-Agent</code> -- <code>2025.07 to 2025.11</code><br/>
+<strong>Yunchou</strong> -- <code>Plan-and-Execute Orchestration + Model Routing Layer</code> -- <code>2026.02 to 2026.06</code><br/>
+<strong>Tianji</strong> -- <code>NL2SQL Data Q&A Agent</code> -- <code>2025.09 to 2026.01</code><br/>
+<strong>Wanxiang</strong> -- <code>Supervisor-Worker Multimodal Multi-Agent</code> -- <code>2025.07 to 2025.11</code><br/>
 </p>
 
 #### 🧰 Tech Stack
